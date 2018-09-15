@@ -11,16 +11,16 @@ export default ({ show, baseURL }) => (
       <meta property="og:audio:secure_url" content={show.url} />
       <meta property="og:audio:type" content="audio/mp3" />
       <meta property="og:type" content="music.song" />
-      <meta property="og:title" content={`${show.title} — Syntax Podcast ${show.displayNumber}`} />
+      <meta property="og:title" content={`${show.title} — Things I Got Wrong ${show.displayNumber}`} />
       <meta
         property="og:description"
-        content="Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling."
+        content="Your favorite general trivia podcast with a healthy dose of internet and media things."
       />
       <meta property="og:url" content={`${baseURL}/show/${show.displayNumber}/${slug(show.title)}`} />
-      <meta property="og:image" content={`${baseURL}/static/syntax-banner.png`} />
-      <link rel="shortcut icon" href={`${baseURL}/static/favicon.png`} />
+      <meta property="og:image" content={`${baseURL}/static/tigw-banner.png`} />
+      {/* <link rel="shortcut icon" href={`${baseURL}/static/favicon.png`} /> */}
       <title>
-        {show.title} — Syntax Podcast {show.displayNumber}
+        {show.title} — Things I Got Wrong {show.displayNumber}
       </title>
       <style dangerouslySetInnerHTML={{ __html: stylesheet.replace(/\n/g, '') }} />
     </Head>

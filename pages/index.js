@@ -20,7 +20,7 @@ export default class IndexPage extends React.Component {
   }
 
   static async getInitialProps({ req }) {
-    const protocol = req && req.headers.host.indexOf('syntax.fm') > -1 ? 'https' : req ? req.protocol : '';
+    const protocol = req && req.headers.host.indexOf('thingsigotwrong.com') > -1 ? 'https' : req ? req.protocol : '';
     const baseURL = req ? `${protocol}://${req.headers.host}` : window.location.origin;
     const { data: shows } = await axios.get(`${baseURL}/api/shows`);
     return { shows, baseURL };
@@ -50,7 +50,7 @@ export default class IndexPage extends React.Component {
         <Meta show={show} baseURL={baseURL} />
         <div className="wrapper">
           <div className="show-wrap">
-            <Player show={current} />
+             {/* <Player show={current} /> */}
             <ShowList
               shows={shows}
               currentShow={currentShow}
