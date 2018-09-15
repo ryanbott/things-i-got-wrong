@@ -18,7 +18,7 @@ export default ({ show, baseURL }) => (
       />
       <meta property="og:url" content={`${baseURL}/show/${show.displayNumber}/${slug(show.title)}`} />
       <meta property="og:image" content={`${baseURL}/static/tigw-banner.png`} />
-      {/* <link rel="shortcut icon" href={`${baseURL}/static/favicon.png`} /> */}
+      <link rel="shortcut icon" href={`${baseURL}/static/favicon.ico`} />
       <title>
         {show.title} — Things I Got Wrong {show.displayNumber}
       </title>
