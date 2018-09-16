@@ -5,7 +5,7 @@ date: 1536987600000
 url: https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-8-16/4616137-44100-2-457c797d49706.m4a
 ---
 
-In this episode of Things I Got Wrong, we play Before & After, Learn some tough questions about airports, learn how there's always a sure bet for most topics in 'General Trivia', talk Harry Potter, Star Trek and more!
+In this episode of Things I Got Wrong, we play Before & After, answer some tough questions about airports, learn how there's always a sure bet for most topics in 'General Trivia', talk Harry Potter, Star Trek and more!
 
 ## Social and Email
 
