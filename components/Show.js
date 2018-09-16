@@ -22,7 +22,7 @@ export default class Show extends React.Component {
         </a>
 
         <div className="show__playcontrols">
-          {currentPlaying === show.displayNumber ? <Bars/ > : <button onClick={() => setCurrentPlaying(show.displayNumber)} className="show__play">►</button> }
+          {currentPlaying === show.displayNumber ? <Bars/ > : <button onClick={() => setCurrentPlaying(show.displayNumber)} className="show__play" title="play button" >►</button> }
         </div>
       </div>
     )

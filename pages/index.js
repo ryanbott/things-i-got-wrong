@@ -50,7 +50,7 @@ export default class IndexPage extends React.Component {
         <Meta show={show} baseURL={baseURL} />
         <div className="wrapper">
           <div className="show-wrap">
-             {/* <Player show={current} /> */}
+            { /*<Player show={current} /> */}
             <ShowList
               shows={shows}
               currentShow={currentShow}
