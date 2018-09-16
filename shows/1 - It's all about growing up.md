@@ -2,7 +2,7 @@
 number: 1
 title: It's all about growing up
 date: 1535864400000
-url: https://anchor.fm/s/698ee04/podcast/play/1257568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-8-2%2F4371099-44100-2-a33e1fea21daa.mp3
+url: https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2018-8-2/4371099-44100-2-a33e1fea21daa.mp3
 ---
 
 In this episode of Things I Got Wrong, we play 'Disney: After Dark', get stumped on '"Silly"-nonyms', learn about the history of Burger King and other fast food joints in 'General Trivia', talk about our favorite Disney movies and more!

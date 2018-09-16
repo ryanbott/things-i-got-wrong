@@ -1,11 +1,12 @@
 ---
-number: 2
-title: Kareem of the Crop
-date: 1536987600000
-url: https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2018-8-16/4616137-44100-2-def66b715e9ee.mp3
+number: 3
+title: Satan Horses
+date: 1537074000000
+url: 
+https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2018-8-16/4617739-44100-2-1435112c495bc.mp3
 ---
 
-In this episode of Things I Got Wrong, we play Before & After, answer some tough questions about airports, learn how there's always a sure bet for most topics in 'General Trivia', talk Harry Potter, Star Trek and more!
+In this episode of Things I Got Wrong, we guess from Notable Book Lines, answer questions about the universe's greatest mystery - Space, learn about the curses that lie within the Denver airport, play 'General Trivia', our first ever 'Lightning Round!', talk Marvel movies and more!
 
 ## Social and Email
 
