@@ -103,27 +103,23 @@ const Header = () => (
         </div>
 
 
-        {/* <div className="person">
+        <div className="person">
           <img
-            src="/static/ryan_400.jpg"
+            src="/static/stu_400.jpg"
             alt="Headshot of Stu Hopkins"
             className="avatar"
           />
           <h3>Stuart Hopkins</h3>
           <a
             target="_blank"
-            href="https://twitter.com/#"
-            className="person__social person__social--instagram"
-          >
-            @stu
-          </a>
+            href="#"
+            className="person__social link-hidden"
+          > ### </a>
+
           <p>
-            Stu Bio {' '}
-            <a target="_blank" href="#">
-              #
-            </a>
+            Web Developer, blacksmith, woodworker and plant lover.
           </p>
-        </div> */}
+        </div>
 
         <div className="person">
           <img
